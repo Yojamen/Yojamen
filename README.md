@@ -1,4 +1,4 @@
-# Nama Proyek Anda
+# Fetall Stress
 
 [![Status Proyek](https://img.shields.io/badge/status-aktif-brightgreen.svg)](https://github.com/username/repo)
 [![Lisensi](https://img.shields.io/badge/Lisensi-MIT-blue.svg)](LICENSE)
